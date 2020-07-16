@@ -15,7 +15,7 @@
 
   <properties>
     <org.springframework.version>4.2.0.RELEASE</org.springframework.version>
-    <spring-security.version>3.2.7.RELEASE</spring-security.version>
+    <spring-security.version>5.3.3.RELEASE</spring-security.version>
   </properties>
   <dependencies>
     <dependency>
